@@ -1,0 +1,2 @@
+useDynLib(LumiWCluster)
+export(LumiWCluster,ClusterMember,InformativeCpG,normalize.GoldenGate,inv_logit,box_plot_bias,plotBAnorm)
